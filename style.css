@@ -1,0 +1,25 @@
+body{
+    background-color:black !important;
+}
+h1{
+    color:gold !important;
+}
+.container{
+    color: black;
+    background-color:black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.card{
+    border-radius: 15px !important; 
+    background-color:burlywood  !important;
+    margin-bottom: 10px !important;  
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    background-color: beige !important;
+}
+.crdmain{
+ margin-top: 1rem !important;
+}
